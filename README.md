@@ -6,7 +6,7 @@ Experiência com desenvolvimento de sites, lojas virtuais e landing pages com as
 
 Graduando em Sistemas de Informação, formado em Técnico em Informática com foco em programação e Especialização Técnica em Desenvolvimento Web utilizando Metodologias Ágeis.
 
-Buscando aprofundar o conhecimento fazendo cursos à parte, como ReactJS, UX/UI, DevOps, e outros em busca do objetivo 🚀
+Buscando aprofundar o conhecimento fazendo cursos à parte, como ReactJS, UX/UI, DevOps, e outros em busca do objetivo ✨
 
 <!--
 **savifon/savifon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
