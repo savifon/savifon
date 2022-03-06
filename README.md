@@ -1,12 +1,12 @@
 ## Savio Fonseca 👨🏻‍💻
 
-Experiência em desenvolvimento de sites, lojas virtuais e landing pages com as tecnologias HTML, CSS, Javascript (jQuery), ASP Clássico, PHP e MySQL.
+Experiência em Desenvolvimento Web Full Stack (sites, lojas virtuais, landing pages e CMS).
 
-Aprofundando e aplicando o conhecimento de frontend, embarcado na trilha ReactJS da Rocketseat Pro, além de outras fontes.
+Aprofundando e aplicando o conhecimento de frontend, embarcado na trilha ReactJS da Rocketseat e VueJS.
 
 Graduando em Sistemas de Informação, formado em Técnico em Informática com foco em programação e Especialização Técnica em Desenvolvimento Web utilizando Metodologias Ágeis.
 
-Também buscando mais sobre todo o processo de desenvolvimento, como UX/UI, DevOps, etc. ✨
+Também buscando mais sobre todo o processo de desenvolvimento, como UX/UI, DevOps, etc.
 
 <!--
 **savifon/savifon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
