@@ -2,7 +2,7 @@
 
 Experiência em Desenvolvimento Web Full Stack (sites, lojas virtuais, landing pages e CMS).
 
-Aprofundando e aplicando o conhecimento de frontend, embarcado na trilha ReactJS da Rocketseat e VueJS.
+Aprofundando e aplicando o conhecimento de Frontend, embarcado na trilha ReactJS da Rocketseat e VueJS.
 
 Graduando em Sistemas de Informação, formado em Técnico em Informática com foco em programação e Especialização Técnica em Desenvolvimento Web utilizando Metodologias Ágeis.
 
