@@ -1,12 +1,10 @@
 ## Savio Fonseca 👨🏻‍💻
 
-Experiência em Desenvolvimento Web Full Stack (sites, lojas virtuais, landing pages e CMS).
+Atual Desenvolvedor Frontend (Vue.js e React).
 
-Aprofundando e aplicando o conhecimento de Frontend, embarcado na trilha ReactJS da Rocketseat e VueJS.
+Experiência em Desenvolvimento Web Full Stack e Web Design.
 
 Graduando em Sistemas de Informação, formado em Técnico em Informática com foco em programação e Especialização Técnica em Desenvolvimento Web utilizando Metodologias Ágeis.
-
-Também buscando mais sobre todo o processo de desenvolvimento, como UX/UI, DevOps, etc.
 
 <!--
 **savifon/savifon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
