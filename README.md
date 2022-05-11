@@ -1,6 +1,6 @@
 ## Savio Fonseca 👨🏻‍💻
 
-Atual Desenvolvedor Frontend (Vue.js e React).
+Atual Desenvolvedor Frontend (Vue.js).
 
 Experiência em Desenvolvimento Web Full Stack e Web Design.
 
