@@ -1,37 +1,21 @@
-## Savio Fonseca 👨🏻‍💻
+## Savio Fonseca Rodrigues 👨🏻‍💻
+#### Desenvolvedor Full Stack com mais de 7 anos de experiência em aplicações web, APIs e automações.
 
-Atual Desenvolvedor Frontend no @SafeLabs.
+## Stacks
 
-Experiência em:
-- Desenvolvimento Frontend (HTML, CSS, Javascript)
-- CSS (Tailwind CSS, Sass)
-- Javascript (Vanilla, Vue.js)
-- Typescript
-- Vue.js (Vue 3, Vite, Composition API, Vue Router, Pinia)
-- Integrações via API Rest (Fetch, Axios)
-- TDD | Test-driven development | Desenvolvimento Orientado a Testes
-- Unit Test | Teste de Unidade | Teste Unitário (Jest, Vue Test Utils)
-- BDD | Behavior Driven Development | Desenvolvimento Orientado ao Comportamento (Jest Cucumber)
-- Pixel Perfect
-- Desenvolvimento Web Full Stack
-- Web Design, UI Design
-- Metodologias Ágeis (Scrum, Kanban)
-- Azure DevOps
-- Git
+- **Front-end:** Vue.js 3, React, TypeScript
+- **Back-end e dados:** Node.js, Python, PostgreSQL
+- **Automação:** Puppeteer, Selenium, Tkinter
+- **Qualidade e DevOps:** Docker, Git, Azure DevOps, Jest, Pytest, BDD  
+- **Metodologias:** Scrum, Kanban, TDD/BDD
 
-Formado em Análise e Desenvolvimento de Sistemas na @FaculdadeUCL, Técnico em Informática com foco em programação e Especialização Técnica em Desenvolvimento Web utilizando Metodologias Ágeis no @IFES.
+## O que faço
 
-<!--
-**savifon/savifon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Crio interfaces reutilizáveis e APIs REST de alto volume.
+- Desenvolvo automações e integrações entre sistemas.
+- Trabalho com testes automatizados e equipes ágeis.
+- Uso ferramentas de IA, como Cursor, Claude Code, Codex e OpenCode, para acelerar desenvolvimento e refatoração.
 
-Here are some ideas to get you started:
+## Contato
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/savio-fonseca/))
