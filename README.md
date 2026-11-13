@@ -18,4 +18,4 @@
 
 ## Contato
 
-[LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/savio-fonseca/))
+[LinkedIn](https://www.linkedin.com/in/savio-fonseca/)
